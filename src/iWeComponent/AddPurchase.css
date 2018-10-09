@@ -1,0 +1,18 @@
+.AddUser{
+    text-align: center;
+    background-color: black;
+}
+.addCost{
+    width: 60%
+}
+.addName {
+    width: 60%
+}
+.addButton {
+
+background: gray;
+
+}
+.tableUser{
+    width: 100%;
+}
