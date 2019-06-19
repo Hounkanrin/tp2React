@@ -60,7 +60,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Integartion Week-end</h1>
+          <h1 className="App-title">Integeration Week-end</h1>
           <Filter users={users} costs={costs} onFilter={this.handleFilter} />
         </header>
         <div className="Purchase">
